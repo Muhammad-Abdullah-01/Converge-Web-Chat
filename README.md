@@ -2,6 +2,10 @@
 
 Converge is a production-ready, full-stack real-time chat application built using the MERN stack, Socket.io, and Tailwind CSS. It supports user authentication, direct messaging, group chat rooms, typing indicators, delivery statuses, message reports, and a dedicated admin moderation panel.
 
+## 🔗 Live Demo
+* **Frontend (Vercel):** [https://converge-web-chat-tcvq.vercel.app](https://converge-web-chat-tcvq.vercel.app)
+* **Backend API (Render):** [https://converge-web-chat-backend.onrender.com](https://converge-web-chat-backend.onrender.com)
+
 ---
 
 ## ⚡ Tech Stack
